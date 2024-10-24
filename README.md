@@ -21,7 +21,7 @@
 ### Installation Steps:
  clone the repository:
 ```
-git clone https://github.com/vp2008a/blockchain_prj_IU2141230204.git
+git clone https://github.com/Divy2003/blockchain_prj_IU2141230167
 
 ```
 After you cloned the repository, you want to install the packages using:
